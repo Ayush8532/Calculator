@@ -1,0 +1,53 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+    text-align: center;
+    margin-top: 70px;
+}
+.container h2
+{
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 4px 8px white;
+}
+table{
+    margin: auto;
+}
+input{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+button{
+    font-size: 28px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    width: 65px;
+    height: 65px;
+    margin: 4px;
+    border-radius: 50%;
+}
+button:hover{
+    border:2px solid red ;
+}
+.calculator
+{
+    display: inline-block;
+    background-color: black;
+    padding: 23px;
+    border-radius: 50px;
+    box-shadow: black 3px 3px 3px;
+
+}
+.btn2
+{
+    background-color:rgba(255, 255, 255,0.3);
+}
+.btn3{
+    background-color: red;
+
+}
